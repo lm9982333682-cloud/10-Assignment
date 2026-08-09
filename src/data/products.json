@@ -1,0 +1,2102 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "category": "Electronics",
+        "price": 99.99,
+        "rating": 4.8,
+        "reviews": 82,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0001",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Smart Watch Series 5",
+        "category": "Electronics",
+        "price": 299.99,
+        "rating": 4.5,
+        "reviews": 119,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0002",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Comfortable Cotton T-Shirt",
+        "category": "Clothing",
+        "price": 24.99,
+        "rating": 4.2,
+        "reviews": 156,
+        "description": "Comfortable everyday apparel made with quality materials and a clean modern design.",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+        "features": [
+            "Comfortable Material",
+            "Modern Fit",
+            "Durable Fabric",
+            "Easy Care"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0003",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "clothing",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ergonomic Office Chair",
+        "category": "Furniture",
+        "price": 199.99,
+        "rating": 4.9,
+        "reviews": 193,
+        "description": "Durable and stylish furniture designed to make your home or workspace more comfortable.",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400",
+        "features": [
+            "Durable Build",
+            "Modern Design",
+            "Comfortable Use",
+            "Easy Assembly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0004",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "furniture",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Stainless Steel Water Bottle",
+        "category": "Home",
+        "price": 34.99,
+        "rating": 4.6,
+        "reviews": 50,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0005",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Professional Camera Lens",
+        "category": "Electronics",
+        "price": 599.99,
+        "rating": 4.3,
+        "reviews": 87,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0006",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Running Shoes",
+        "category": "Clothing",
+        "price": 129.99,
+        "rating": 5.0,
+        "reviews": 124,
+        "description": "Comfortable everyday apparel made with quality materials and a clean modern design.",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+        "features": [
+            "Comfortable Material",
+            "Modern Fit",
+            "Durable Fabric",
+            "Easy Care"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0007",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "clothing",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Modern Coffee Table",
+        "category": "Furniture",
+        "price": 149.99,
+        "rating": 4.7,
+        "reviews": 161,
+        "description": "Durable and stylish furniture designed to make your home or workspace more comfortable.",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400",
+        "features": [
+            "Durable Build",
+            "Modern Design",
+            "Comfortable Use",
+            "Easy Assembly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0008",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "furniture",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Aromatherapy Essential Oil Diffuser",
+        "category": "Home",
+        "price": 49.99,
+        "rating": 4.4,
+        "reviews": 198,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0009",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Wireless Gaming Mouse",
+        "category": "Electronics",
+        "price": 79.99,
+        "rating": 4.1,
+        "reviews": 55,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0010",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "price": 149.99,
+        "rating": 4.8,
+        "reviews": 92,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0011",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Desk Lamp",
+        "category": "Home",
+        "price": 39.99,
+        "rating": 4.5,
+        "reviews": 129,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0012",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "4K Ultra HD Monitor",
+        "category": "Electronics",
+        "price": 349.99,
+        "rating": 4.2,
+        "reviews": 166,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0013",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Wireless Earbuds",
+        "category": "Electronics",
+        "price": 89.99,
+        "rating": 4.9,
+        "reviews": 203,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0014",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Portable Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 69.99,
+        "rating": 4.6,
+        "reviews": 60,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHGNIJxOpbixLWHbZx9GMSif0wj1mM53oc9CdfwbygQ&s=10",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0015",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "USB-C Power Bank",
+        "category": "Electronics",
+        "price": 59.99,
+        "rating": 4.3,
+        "reviews": 97,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0016",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Smart Home Hub",
+        "category": "Electronics",
+        "price": 89.99,
+        "rating": 5.0,
+        "reviews": 134,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0017",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Fitness Tracker",
+        "category": "Electronics",
+        "price": 129.99,
+        "rating": 4.7,
+        "reviews": 171,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0018",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Leather Backpack",
+        "category": "Accessories",
+        "price": 79.99,
+        "rating": 4.4,
+        "reviews": 208,
+        "description": "A stylish and useful accessory designed for everyday convenience and long-lasting use.",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+        "features": [
+            "Premium Finish",
+            "Compact Design",
+            "Durable Material",
+            "Everyday Style"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0019",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "accessories",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Gaming Headset",
+        "category": "Electronics",
+        "price": 119.99,
+        "rating": 4.1,
+        "reviews": 65,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0020",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Yoga Mat",
+        "category": "Sports",
+        "price": 29.99,
+        "rating": 4.8,
+        "reviews": 102,
+        "description": "A quality sports and fitness essential designed to support an active lifestyle.",
+        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400",
+        "features": [
+            "Lightweight Design",
+            "Durable Build",
+            "Comfortable Grip",
+            "Fitness Friendly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0021",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "sports",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Sports Water Bottle",
+        "category": "Sports",
+        "price": 24.99,
+        "rating": 4.5,
+        "reviews": 139,
+        "description": "A quality sports and fitness essential designed to support an active lifestyle.",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400",
+        "features": [
+            "Lightweight Design",
+            "Durable Build",
+            "Comfortable Grip",
+            "Fitness Friendly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0022",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "sports",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Desk Organizer",
+        "category": "Home",
+        "price": 19.99,
+        "rating": 4.2,
+        "reviews": 176,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0023",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Travel Backpack",
+        "category": "Accessories",
+        "price": 69.99,
+        "rating": 4.9,
+        "reviews": 213,
+        "description": "A stylish and useful accessory designed for everyday convenience and long-lasting use.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91C8U6LAtqL.jpg",
+        "features": [
+            "Premium Finish",
+            "Compact Design",
+            "Durable Material",
+            "Everyday Style"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0024",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "accessories",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Classic Sunglasses",
+        "category": "Accessories",
+        "price": 49.99,
+        "rating": 4.6,
+        "reviews": 70,
+        "description": "A stylish and useful accessory designed for everyday convenience and long-lasting use.",
+        "image": "https://thumbs.dreamstime.com/b/classic-sunglasses-isolated-front-view-white-studio-background-208843446.jpg",
+        "features": [
+            "Premium Finish",
+            "Compact Design",
+            "Durable Material",
+            "Everyday Style"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0025",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "accessories",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Casual Hoodie",
+        "category": "Clothing",
+        "price": 59.99,
+        "rating": 4.3,
+        "reviews": 107,
+        "description": "Comfortable everyday apparel made with quality materials and a clean modern design.",
+        "image": "https://m.media-amazon.com/images/I/71T0TisfY1L._AC_SL1500_.jpg",
+        "features": [
+            "Comfortable Material",
+            "Modern Fit",
+            "Durable Fabric",
+            "Easy Care"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0026",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "clothing",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Sunglasses",
+        "category": "Accessories",
+        "price": 79.99,
+        "rating": 5.0,
+        "reviews": 144,
+        "description": "A stylish and useful accessory designed for everyday convenience and long-lasting use.",
+        "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400",
+        "features": [
+            "Premium Finish",
+            "Compact Design",
+            "Durable Material",
+            "Everyday Style"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0027",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "accessories",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Bookshelf",
+        "category": "Furniture",
+        "price": 149.99,
+        "rating": 4.7,
+        "reviews": 181,
+        "description": "Durable and stylish furniture designed to make your home or workspace more comfortable.",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400",
+        "features": [
+            "Durable Build",
+            "Modern Design",
+            "Comfortable Use",
+            "Easy Assembly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0028",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "furniture",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Wireless Charger",
+        "category": "Electronics",
+        "price": 39.99,
+        "rating": 4.4,
+        "reviews": 218,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0029",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Smart LED Bulb",
+        "category": "Home",
+        "price": 24.99,
+        "rating": 4.1,
+        "reviews": 75,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://tse3.mm.bing.net/th/id/OIP.QVJ2GOXtJJJ38xUMuUr0KwHaG0?r=0&w=761&h=700&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0030",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Resistance Bands Set",
+        "category": "Sports",
+        "price": 34.99,
+        "rating": 4.8,
+        "reviews": 112,
+        "description": "A quality sports and fitness essential designed to support an active lifestyle.",
+        "image": "https://m.media-amazon.com/images/I/71tWTWashCL._AC_.jpg",
+        "features": [
+            "Lightweight Design",
+            "Durable Build",
+            "Comfortable Grip",
+            "Fitness Friendly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0031",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "sports",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Wall Clock",
+        "category": "Home",
+        "price": 29.99,
+        "rating": 4.5,
+        "reviews": 149,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=400",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0032",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Phone Case",
+        "category": "Accessories",
+        "price": 19.99,
+        "rating": 4.2,
+        "reviews": 186,
+        "description": "A stylish and useful accessory designed for everyday convenience and long-lasting use.",
+        "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=400",
+        "features": [
+            "Premium Finish",
+            "Compact Design",
+            "Durable Material",
+            "Everyday Style"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0033",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "accessories",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Floor Lamp",
+        "category": "Home",
+        "price": 89.99,
+        "rating": 4.9,
+        "reviews": 223,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://m.media-amazon.com/images/I/71GWj9sS9FL._AC_SL1500_.jpg",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0034",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Protein Powder",
+        "category": "Sports",
+        "price": 79.99,
+        "rating": 4.6,
+        "reviews": 80,
+        "description": "A quality sports and fitness essential designed to support an active lifestyle.",
+        "image": "https://m.media-amazon.com/images/I/71f+UBXh2vL._AC_SL1500_.jpg",
+        "features": [
+            "Lightweight Design",
+            "Durable Build",
+            "Comfortable Grip",
+            "Fitness Friendly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0035",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "sports",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 69.99,
+        "rating": 4.3,
+        "reviews": 117,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://m.media-amazon.com/images/I/61xtDfcze4L._AC_.jpg",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0036",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Sports Running Watch",
+        "category": "Sports",
+        "price": 159.99,
+        "rating": 5.0,
+        "reviews": 154,
+        "description": "A quality sports and fitness essential designed to support an active lifestyle.",
+        "image": "https://m.media-amazon.com/images/I/61xAAzzr-yL._AC_SL1500_.jpg",
+        "features": [
+            "Lightweight Design",
+            "Durable Build",
+            "Comfortable Grip",
+            "Fitness Friendly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0037",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "sports",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Pillow Set",
+        "category": "Home",
+        "price": 99.99,
+        "rating": 4.7,
+        "reviews": 191,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0038",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Gym Training Gloves",
+        "category": "Sports",
+        "price": 24.99,
+        "rating": 4.4,
+        "reviews": 48,
+        "description": "A quality sports and fitness essential designed to support an active lifestyle.",
+        "image": "https://tse4.mm.bing.net/th/id/OIP.sTgB1zGLJ_C3qFvuTKyGtQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "features": [
+            "Lightweight Design",
+            "Durable Build",
+            "Comfortable Grip",
+            "Fitness Friendly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0039",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "sports",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Stainless Steel Lunch Box",
+        "category": "Home",
+        "price": 29.99,
+        "rating": 4.1,
+        "reviews": 85,
+        "description": "A practical home essential combining useful functionality with a simple modern design.",
+        "image": "https://m.media-amazon.com/images/I/71ou2neFQKL._AC_.jpg",
+        "features": [
+            "Practical Design",
+            "Durable Material",
+            "Easy to Use",
+            "Everyday Essential"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0040",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "home",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Fitness Dumbbell Set",
+        "category": "Sports",
+        "price": 89.99,
+        "rating": 4.8,
+        "reviews": 122,
+        "description": "A quality sports and fitness essential designed to support an active lifestyle.",
+        "image": "https://i5.walmartimages.com/seo/UPGO-Adjustable-Dumbbell-Set-50lb-Free-Weight-Set-Connector-Bar-6-1-Workout-Gear-Dumbbell-Kettlebell-Barbell-Push-Handle-Home-Gym-Fitness-Exercise_2f762ded-71b8-4914-a6ec-e6c8c1b5c221.c8d11a9abfc16f9c0516796e55c99d1a.jpeg",
+        "features": [
+            "Lightweight Design",
+            "Durable Build",
+            "Comfortable Grip",
+            "Fitness Friendly"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0041",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "sports",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Leather Wallet",
+        "category": "Accessories",
+        "price": 39.99,
+        "rating": 4.5,
+        "reviews": 159,
+        "description": "A stylish and useful accessory designed for everyday convenience and long-lasting use.",
+        "image": "https://cdn.shopify.com/s/files/1/0575/7177/products/no38-personalized-minimalist-hanmade-leather-wallet-brown_2000x.jpg?v=1569079857",
+        "features": [
+            "Premium Finish",
+            "Compact Design",
+            "Durable Material",
+            "Everyday Style"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0042",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "accessories",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Travel Organizer",
+        "category": "Accessories",
+        "price": 24.99,
+        "rating": 4.2,
+        "reviews": 196,
+        "description": "A stylish and useful accessory designed for everyday convenience and long-lasting use.",
+        "image": "https://i5.walmartimages.com/seo/Packing-Cubes-9-Set-Travel-Packing-Organizers-with-Large-Toiletries-Bag-for-Clothes-Shoes-Blue_798c5257-a9d0-4f0d-a41f-ed4b9ebc12bf.f70423d5ce28b5c07627a4b056afbebe.jpeg",
+        "features": [
+            "Premium Finish",
+            "Compact Design",
+            "Durable Material",
+            "Everyday Style"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0043",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "accessories",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Wireless Car Charger",
+        "category": "Electronics",
+        "price": 49.99,
+        "rating": 4.9,
+        "reviews": 53,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://m.media-amazon.com/images/I/71pzeBmtt-L._AC_.jpg",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0044",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Casual Sneakers",
+        "category": "Clothing",
+        "price": 89.99,
+        "rating": 4.6,
+        "reviews": 90,
+        "description": "Comfortable everyday apparel made with quality materials and a clean modern design.",
+        "image": "https://i.pinimg.com/originals/33/e1/84/33e1848504f250847762bb4033777f96.jpg",
+        "features": [
+            "Comfortable Material",
+            "Modern Fit",
+            "Durable Fabric",
+            "Easy Care"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0045",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "clothing",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Smart Desk Lamp",
+        "category": "Electronics",
+        "price": 59.99,
+        "rating": 4.3,
+        "reviews": 127,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://thelumicharge.com/cdn/shop/articles/Lumi-Mini_-_7_In_1_Multifunctional_LED_Desk_Lamp_With_Wireless_Charger_fb17df80-1f85-42e0-aa51-c0d024d51ae6.jpg?v=1675081895",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0046",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Cotton Joggers",
+        "category": "Clothing",
+        "price": 44.99,
+        "rating": 5.0,
+        "reviews": 164,
+        "description": "Comfortable everyday apparel made with quality materials and a clean modern design.",
+        "image": "https://i5.walmartimages.com/seo/Hanes-Originals-Men-s-Cotton-Joggers-with-Pockets-30-5-Light-Steel-2XL_0939f5bd-47a2-47a5-83b4-7ec9332e0996.413c6d081a35fa600c9d7f13ba39b8d3.jpeg",
+        "features": [
+            "Comfortable Material",
+            "Modern Fit",
+            "Durable Fabric",
+            "Easy Care"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0047",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "clothing",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Portable Mini Projector",
+        "category": "Electronics",
+        "price": 249.99,
+        "rating": 4.7,
+        "reviews": 201,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://m.media-amazon.com/images/I/610QQoSXpjL._AC_.jpg",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0048",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "bestseller"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Adjustable Laptop Stand",
+        "category": "Electronics",
+        "price": 54.99,
+        "rating": 4.4,
+        "reviews": 58,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://rukminim2.flixcart.com/image/2400/2479/xif0q/shopsy-laptop-stand/l/x/y/200-adjustable-portable-aluminum-laptop-holder-foldable-stand-7-original-imagyjn6htuwgcun.jpeg?q=60",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0049",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Smart Fitness Band",
+        "category": "Electronics",
+        "price": 99.99,
+        "rating": 4.1,
+        "reviews": 95,
+        "description": "Reliable modern technology designed for everyday use with a practical, user-friendly experience.",
+        "image": "https://m.media-amazon.com/images/I/71iBrsQzbqL._AC_.jpg",
+        "features": [
+            "Modern Technology",
+            "Easy to Use",
+            "Reliable Performance",
+            "Everyday Use"
+        ],
+        "delivery": {
+            "title": "Free Delivery",
+            "condition": "On orders $50+"
+        },
+        "security": {
+            "title": "Secure Pay",
+            "description": "256-bit SSL"
+        },
+        "returns": {
+            "title": "Easy Returns",
+            "description": "30-day policy"
+        },
+        "stock": true,
+        "cart": {
+            "canAdd": true,
+            "quantity": 0
+        },
+        "wishlist": false,
+        "sku": "SKY-0050",
+        "brand": "SkyMart",
+        "discount": 0,
+        "tags": [
+            "electronics",
+            "featured",
+            "popular"
+        ]
+    }
+]
