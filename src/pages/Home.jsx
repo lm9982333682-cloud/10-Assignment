@@ -139,10 +139,10 @@ const Home = () => {
 
   return (
     <main>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+      <div className="max-w-7xl mx-auto px-2  sm:px-6 lg:px-8 py-10">
 
         {/* Hero Section */}
-        <div className="relative overflow-hidden rounded-3xl bg-[#111] border border-white/10 p-8 sm:p-12 mb-10">
+        <div className="relative overflow-hidden rounded-xl sm:rounded-3xl bg-[#111] border border-white/10 px-4 p-8 sm:p-12 mb-10">
 
           {/* Background Effects */}
           <div className="absolute inset-0 pointer-events-none overflow-hidden">
@@ -160,7 +160,7 @@ const Home = () => {
             />
           </div>
 
-          <div className="relative z-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-8">
+          <div className="relative z-10  flex flex-col sm:flex-row items-start sm:items-center justify-between gap-8">
 
             {/* Hero Content */}
             <div>
