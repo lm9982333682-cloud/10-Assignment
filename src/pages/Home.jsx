@@ -1,6 +1,7 @@
 import React from "react";
 import { ArrowRight, Package, TrendingUp, Star, Tag, ShoppingBag, Zap, Shield, } from "lucide-react";
 import { NavLink, useNavigate } from "react-router";
+import { useAuthContext } from "../context/Auth";
 const Home = () => {
 
   const categories = [
@@ -126,6 +127,13 @@ const Home = () => {
       </div>
     );
   };
+  
+  const { login } = useAuthContext();
+
+
+
+
+
 
   const navigate = useNavigate();
 
@@ -163,7 +171,7 @@ const Home = () => {
               <h1 className="font-bold text-4xl sm:text-5xl text-white leading-tight mb-4">
                 Welcome back,
                 <br />
-                <span className="text-lime-400">Lal!</span>
+                <span className="text-lime-400 capitalize ">{login.name}!</span>
               </h1>
 
               <p className="text-white/40 max-w-md">
@@ -190,7 +198,7 @@ const Home = () => {
             </div>
 
             {/* Hero Stats */}
-            <div className="shrink-0 flex flex-col gap-3">
+            <div className="shrink-0 flex flex-col grid grid-cols-2 gap-3">
               <div className="bg-lime-400/10 border border-lime-400/20 rounded-2xl px-6 py-4 text-center">
                 <p className="font-bold text-4xl text-lime-400">
                   20+

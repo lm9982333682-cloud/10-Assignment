@@ -97,7 +97,7 @@ const SearchProduct = () => {
                         <select
                             value={category}
                             onChange={(e) => setCategory(e.target.value)}
-                            className="bg-[#1D1D1D]  border border-white/10 rounded-xl h-10 pr-8 pl-3 appearance-none cursor-pointer min-w-40  text-sm text-white/70 outline-none focus:border-volt/40"
+                            className="bg-[#1D1D1D]  border border-white/10 rounded-xl h-10 pr-8 pl-3 appearance-none cursor-pointer w-full sm-min-w-40  text-sm text-white/70 outline-none focus:border-volt/40"
                         >
 
                             <option value="all">
@@ -143,7 +143,7 @@ const SearchProduct = () => {
                         <select
                             value={sort}
                             onChange={(e) => setSort(e.target.value)}
-                            className="bg-[#1D1D1D] border border-white/10 rounded-xl h-10 pr-8 pl-3 appearance-none cursor-pointer min-w-45 text-sm text-white/70 outline-none focus:border-volt/40"
+                            className="bg-[#1D1D1D] border border-white/10 rounded-xl h-10 pr-8 pl-3 appearance-none cursor-pointer w-full sm:min-w-45 text-sm text-white/70 outline-none focus:border-volt/40"
                         >
 
                             <option value="default">
@@ -216,7 +216,7 @@ const SearchProduct = () => {
             </div>
 
             {/* ================= PRODUCT GRID ================= */}
-            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
+            <div className="grid  sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
 
                 {filteredProducts.map((product) => <CartItem product={product} key={product.id} />)}
 
