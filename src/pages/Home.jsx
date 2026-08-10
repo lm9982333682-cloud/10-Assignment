@@ -182,7 +182,7 @@ const Home = () => {
               <div className=" grid grid-cols-2 gap-3  mt-6 flex-wrap">
                 <NavLink 
                   to="/shop"
-                  className="flex items-center gap-2 bg-lime-400 hover:bg-lime-300 text-black font-semibold px-5 py-3 rounded-xl transition"
+                  className="flex items-center text-center justify-center gap-2 bg-lime-400 hover:bg-lime-300 text-black font-semibold px-2 sm:px-5 py-3 rounded-xl transition"
                 >
                   Shop Now
                   <ArrowRight size={16} />
@@ -190,7 +190,7 @@ const Home = () => {
 
                 <NavLink
                   to="/shop"
-                  className="flex items-center gap-2 border border-white/20 hover:border-white/40 text-white px-5 py-3 rounded-xl transition"
+                  className="flex items-center justify-center gap-2 border border-white/20 hover:border-white/40 text-white px-2 sm:px-5  py-3 rounded-xl transition"
                 >
                   View All Products
                 </NavLink>
