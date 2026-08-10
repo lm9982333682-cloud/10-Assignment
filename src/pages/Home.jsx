@@ -179,8 +179,8 @@ const Home = () => {
                 electronics, fashion, and more.
               </p>
 
-              <div className="flex gap-3 mt-6 flex-wrap">
-                <NavLink
+              <div className=" grid grid-cols-2 gap-3  mt-6 flex-wrap">
+                <NavLink 
                   to="/shop"
                   className="flex items-center gap-2 bg-lime-400 hover:bg-lime-300 text-black font-semibold px-5 py-3 rounded-xl transition"
                 >
