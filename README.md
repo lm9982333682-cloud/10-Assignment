@@ -4,13 +4,13 @@
 
 ❤️Key Features & Technologies❤️
 
-✅Reusable React Components** – Built reusable and modular components for better code organization.
-✅Props** – Used Props to pass data between components.
-✅Context API** – Used Context API to share global data/state across components.
-✅Redux Toolkit** – Used Redux Toolkit for centralized and efficient state management.
-✅React Router** – Used React Router for navigation and managing different pages/routes.
-✅Dynamic Product Data and UI** – Managed products and UI dynamically.
-✅Responsive & User-Friendly Interface** – Designed a responsive interface for different screen sizes.
-✅Clean & Reusable Code Structure** – Maintained a clean, organized, and reusable code structure.
+✅Reusable React Components** – Built reusable and modular components for better code organization. <br/>
+✅Props** – Used Props to pass data between components.<br/>
+✅Context API** – Used Context API to share global data/state across components.<br/>
+✅Redux Toolkit** – Used Redux Toolkit for centralized and efficient state management.<br/>
+✅React Router** – Used React Router for navigation and managing different pages/routes.<br/>
+✅Dynamic Product Data and UI** – Managed products and UI dynamically.<br/>
+✅Responsive & User-Friendly Interface** – Designed a responsive interface for different screen sizes.<br/>
+✅Clean & Reusable Code Structure** – Maintained a clean, organized, and reusable code structure.<br/>
 
 This project helped me gain practical experience with **React Components, Props, Context API, Redux Toolkit, and React Router**, and understand how these technologies work together to build a **scalable and maintainable E-Commerce Web Application**.
